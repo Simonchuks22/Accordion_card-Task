@@ -27,7 +27,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 - [GitHub Pages](https://pages.github.com/)
 
-- Live Site URL:[ live site URL he] (https://simonchuks22.github.io/Accordion_card-Task/)
+- Live Site URL:[ live site URL here](https://simonchuks22.github.io/Accordion_card-Task/)
 
 
 ### Built with
