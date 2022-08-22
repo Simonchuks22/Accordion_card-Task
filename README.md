@@ -27,7 +27,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 - [GitHub Pages](https://pages.github.com/)
 
-- Live Site URL: https://simonchuks22.github.io/Accordion_card-Task/
+- Live Site URL: [https://simonchuks22.github.io/Accordion_card-Task/]
 
 
 ### Built with
@@ -47,7 +47,7 @@ I will focus more on Javascript Basics and how to use JS in creating According a
 -(https://www.youtube.com/watch?v=7lEHXad7hCs) - it help me  in understanding Z-index properties and i applied  it on this task .
 
 ###Authour
-- Twitter -https://twitter.com/Simonchuks22
+- Twitter [https://twitter.com/Simonchuks22]
 
  ## Acknowledgments
  A special thanks to Web3brigde for giving oppoturnity to get started in the web2 space and being a member of the cohort 7, also participating in their weekly Tasks 
