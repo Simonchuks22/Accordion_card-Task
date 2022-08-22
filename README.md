@@ -7,9 +7,8 @@
 
 Thanks for checking out this TASK.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**(JS is not really a perequisite for this task, there are some html and css elements that can be used to create account
+**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**(JS is not really a must know for this task, there are some html and css elements that can be used to create account
 
 ## Building your project
 
@@ -28,5 +27,29 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 - [GitHub Pages](https://pages.github.com/)
 
-- Live Site URL: [Add live site URL here]
+- Live Site URL: https://simonchuks22.github.io/Accordion_card-Task/
+
+
+### Built with
+
+-  HTML5 Elements
+- CSS custom properties
+- z-index
+
+### what i learnt 
+i was able to master z-index properties and css item positions and how to use HTML AND CSS in building Accordion without javascript and frameworks
+
+###Continued Development
+I will focus more on Javascript Basics and how to use JS in creating According and making it responsive
+
+### Useful resources
+
+-(https://www.youtube.com/watch?v=7lEHXad7hCs) - it help me  in understanding Z-index properties and i applied  it on this task .
+
+###Authour
+- Twitter -https://twitter.com/Simonchuks22
+
+ ## Acknowledgments
+ A special thanks to Web3brigde for giving oppoturnity to get started in the web2 space and being a member of the cohort 7, also participating in their weekly Tasks 
+
 
